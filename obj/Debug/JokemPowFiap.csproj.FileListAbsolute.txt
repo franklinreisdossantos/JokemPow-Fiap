@@ -1,0 +1,6 @@
+C:\Users\frank\source\repos\JokemPowFiap\bin\Debug\JokemPowFiap.exe
+C:\Users\frank\source\repos\JokemPowFiap\bin\Debug\JokemPowFiap.pdb
+C:\Users\frank\source\repos\JokemPowFiap\obj\Debug\JokemPowFiap.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\JokemPowFiap\obj\Debug\JokemPowFiap.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\JokemPowFiap\obj\Debug\JokemPowFiap.exe
+C:\Users\frank\source\repos\JokemPowFiap\obj\Debug\JokemPowFiap.pdb
